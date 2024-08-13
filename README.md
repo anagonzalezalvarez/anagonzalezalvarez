@@ -4,7 +4,7 @@
 
 <p>
   
-I am a bioinformatician interested in using computational tools to understand how the brain develops and processes sensory information. My current work focuses on integrating short-read and long-read RNA sequencing data to analyze gene expression and splicing changes in specific cell types during development.
+I am a bioinformatician interested in using computational tools to understand how the brain develops and processes sensory information. My current work focuses on integrating **short-read** and **long-read RNA sequencing** data to analyze **gene expression** and **splicing changes** in **specific cell types** during development.
 
 
 
