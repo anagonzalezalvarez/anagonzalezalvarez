@@ -9,6 +9,10 @@ I am a bioinformatician interested in using computational tools to understand ho
 
 </p>
 
+### 🔎 Analysis Toolkit
+RNA-Seq, scRNA-Seq, ATAC-Seq, Long-read Sequencing
+
+
 
 ### 📨 Contact
 <a href="mailto:ana.gonzalezalvarez@kaust.edu.sa" target="_blank">
