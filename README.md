@@ -1,5 +1,5 @@
 <p>
-  👋&nbsp; Hi there!
+  👋&nbsp; Hi!
 </p>
 
 <p>
